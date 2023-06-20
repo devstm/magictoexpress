@@ -1,0 +1,20 @@
+{
+  "name": "magictoexpress",
+  "version": "1.0.0",
+  "description": "Add a touch of magic to the Express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "controller",
+    "saleh",
+    "model",
+    "create",
+    "let",
+    "const"
+  ],
+  "author": "Dev. Saleh Tayseer Marouf",
+  "license": "ISC"
+}
