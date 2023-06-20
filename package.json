@@ -6,6 +6,9 @@
   "scripts": {
     "make:controller": "node ./lib/create-controller"
   },
+  "bin": {
+    "magictoexpress": "./lib/create-controller"
+  },
   "keywords": [
     "express",
     "controller",
